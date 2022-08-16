@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KqAhAznMhNMn3HtfJCco8Cg5R9LYTbL6dVLMSSOw+wEiBJGFY4wt2T+HMWH6v7jyNtRVqc4+BQxb57WQKgpQTg==",
+  "dgSpecHash": "atzabe0IuZkwNt6E7BodGilsXPllouzprKOIMlUj7lsLzXn8zFtgtIucfEvGcAaZQ7mCdtYFxb492iNH/7uG8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\OneDrive\\Документы\\Code Academy\\Homeworks c# tasks\\C# Tasks-8\\C# Tasks-8.1\\TaskForInterface\\TaskForInterface.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\elnurra\\Desktop\\C-Tasks-8\\TaskForInterface\\TaskForInterface.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

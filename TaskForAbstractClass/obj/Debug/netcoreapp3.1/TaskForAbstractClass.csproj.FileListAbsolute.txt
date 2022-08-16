@@ -12,3 +12,17 @@ C:\Users\User\source\repos\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForA
 C:\Users\User\source\repos\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.dll
 C:\Users\User\source\repos\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.pdb
 C:\Users\User\source\repos\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.genruntimeconfig.cache
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\bin\Debug\netcoreapp3.1\TaskForAbstractClass.exe
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\bin\Debug\netcoreapp3.1\TaskForAbstractClass.deps.json
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\bin\Debug\netcoreapp3.1\TaskForAbstractClass.runtimeconfig.json
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\bin\Debug\netcoreapp3.1\TaskForAbstractClass.runtimeconfig.dev.json
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\bin\Debug\netcoreapp3.1\TaskForAbstractClass.dll
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\bin\Debug\netcoreapp3.1\TaskForAbstractClass.pdb
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.csproj.AssemblyReference.cache
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.AssemblyInfoInputs.cache
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.AssemblyInfo.cs
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.dll
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.pdb
+C:\Users\elnurra\Desktop\C-Tasks-8\TaskForAbstractClass\obj\Debug\netcoreapp3.1\TaskForAbstractClass.genruntimeconfig.cache

@@ -6,10 +6,35 @@ namespace TaskForInterface
 {
    abstract class Vehicle
     {
-        public abstract void DriveTime(decimal DriveTime);
-        public abstract void DrivePath(decimal DrivePath);
+        static decimal _driveTime;
+        static decimal _drivePath;
+        public decimal DriveTime
+        {
+            get { return _driveTime; }
+            set
+            {
+                if (value>=0)
+                {
+                    _drivePath = value;
+                } 
+            } 
+        }
+        public decimal DrivePath
+        {
+            get { return _drivePath; }
+            set
+            {
+                if (value >= 0)
+                {
+                    _drivePath = value;
+                }
+            }
+        }
+       
         public virtual void AvarageSpeed(decimal DriveTime, decimal DrivePath) 
         {
+            this.DrivePath = DrivePath;
+            this.DriveTime = DriveTime;
             Console.WriteLine(DrivePath/DriveTime);
         }
     }
@@ -83,12 +108,40 @@ namespace TaskForInterface
 
     interface IWhell
     {
-        void WheelThickness(decimal WheelThick);
+        static decimal _wheelThick;
+        public decimal WheelThick { 
+            get 
+            {
+                return _wheelThick;
+            } 
+            set 
+            {
+                if (value>=0)
+                {
+                    WheelThick = value;
+                }
+            } 
+        }
     }
 
     interface ITransmision 
     {
-        void TransmissionKind(decimal TransmissionKind );
+       
+        static decimal _transmissionKind;
+        public decimal TransmissionKind
+        {
+            get
+            {
+                return _transmissionKind;
+            }
+            set
+            {
+                if (value >= 0)
+                {
+                    _transmissionKind = value;
+                }
+            }
+        }
 
     }
     class Car :Vehicle ,IEngine, IWhell, ITransmision
@@ -137,22 +190,14 @@ namespace TaskForInterface
                 }
             }
         }
-        public override void DrivePath(decimal DrivePath)
-        {
-            Console.WriteLine(DrivePath);
-        }
-
-        public override void DriveTime(decimal DriveTime)
-        {
-            Console.WriteLine(DriveTime);
-        }
+        
 
         public override void AvarageSpeed(decimal DriveTime, decimal DrivePath)
         {
             Console.WriteLine(DrivePath/DriveTime); 
         }
 
-        public void CurrentOil(decimal CurrentOil)
+        public void GetCurrentOil(decimal CurrentOil)
         {
             if (CurrentOil>=0)
             {
@@ -167,26 +212,23 @@ namespace TaskForInterface
         }
 
 
-        public void FuelType(string FuelType)
+        
+        
+
+
+        private double _horsePower;
+        public double HorsePower
         {
-            Console.WriteLine(FuelType);
-        }
-
-        public void HorsePower(decimal HorsePower)
-
-        {
-            if (HorsePower>=0)
+            get { return _horsePower; }
+            set
             {
-                Console.WriteLine(HorsePower);
-            }
-            else 
-            {
-                Console.WriteLine("Wrong input data: " + HorsePower);
-            }
-            
-        }
+                if (value>=0)
+                {
+                    _horsePower = value;
+                }
+            } }
 
-        public void RemainOilAmount(decimal RemainOilAmount)
+        public void GetRemainOilAmount(decimal RemainOilAmount)
         {
             if (RemainOilAmount>=0)
             {
@@ -198,18 +240,28 @@ namespace TaskForInterface
             }
         }
 
-        public void TankSize(decimal TankSize)
+        private decimal _tankSize;
+        public decimal Tank
         {
-            if (TankSize>=0)
+            get { return _tankSize; }
+            set
             {
-
-            }
+                if (value >= 0)
+                {
+                    _tankSize = value;
+                } 
+            } 
         }
-
-        public void TransmissionKind(decimal TransmissionKind)
+        private string _transkind;
+        public string TransmisionKind
         {
-            Console.WriteLine();
-        }
+            get { return _transkind; }
+            set
+            {
+                if (value== "Automatic" || value=="Mechanic")
+                {
+                    _transkind = value;
+                } } }
 
         public void WheelThickness(decimal WheelThick)
         {
