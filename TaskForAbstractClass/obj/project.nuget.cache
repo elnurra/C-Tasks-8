@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7bfomPklBSLnEXvnlHYJCKC3N2y8ixUsl3XUmCR+sT29hRaGOqvYWx3j8TzWfWrXLcAMHAKfdqi5RF4qjFpVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Документы\\Code Academy\\Homeworks c# tasks\\C# Tasks-8\\TaskForAbstractClass\\TaskForAbstractClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-8\C# Tasks-8.1\TaskForInterface\obj\Debug\netcoreapp3.1\TaskForInterface.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-8\C# Tasks-8.1\TaskForInterface\obj\Debug\netcoreapp3.1\TaskForInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-8\C# Tasks-8.1\TaskForInterface\obj\Debug\netcoreapp3.1\TaskForInterface.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-8\C# Tasks-8.1\TaskForInterface\obj\Debug\netcoreapp3.1\TaskForInterface.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-8\C# Tasks-8.1\TaskForInterface\obj\Debug\netcoreapp3.1\TaskForInterface.csproj.CoreCompileInputs.cache
